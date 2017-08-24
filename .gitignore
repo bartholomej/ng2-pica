@@ -9,8 +9,8 @@ pids
 *.seed
 
 .vscode
-dist
-*.metadata.json
+# dist
+# *.metadata.json
 *.ngsummary.json
 *.ngfactory.ts
 
@@ -46,8 +46,8 @@ jspm_packages
 # Generated #
 !karma.conf.js
 !karma-test-shim.js
-*.js
+# *.js
 !rollup.config.js
-*.map
-*.d.ts
+# *.map
+# *.d.ts
 typings
